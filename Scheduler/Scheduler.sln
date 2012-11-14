@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scheduler", "Scheduler\Scheduler.vcxproj", "{580C1ADE-1BB7-4021-99D0-C94622CBC79D}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Scheduler.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Debug|Win32.Build.0 = Debug|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Release|Win32.ActiveCfg = Release|Win32
+		{580C1ADE-1BB7-4021-99D0-C94622CBC79D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
